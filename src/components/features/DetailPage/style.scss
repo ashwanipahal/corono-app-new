@@ -1,0 +1,34 @@
+.container {
+  max-height: 700px;
+}
+
+.list-view {
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
+.table-row {
+  cursor: pointer;
+}
+h3 {
+  color: darkgray;
+  font-weight: 400;
+  font-size: 24px;
+}
+
+h1 {
+  color: #555;
+  font-weight: 300;
+  font-size: 40px;
+}
+
+.table-heading {
+  margin: 20px 0;
+  font-weight: 300;
+  font-size: 36px;
+  text-align: center;
+}
+
+.MuiButtonBase-root.back-button {
+  margin-top:10px;
+}
